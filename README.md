@@ -4,7 +4,6 @@
 ![PGM project 2_page-0004](https://user-images.githubusercontent.com/59906496/184262611-e33da808-f781-4e7f-b55a-d3db85ad28ab.jpg)
 ![PGM project 2_page-0005](https://user-images.githubusercontent.com/59906496/184262624-e119064f-6c8e-4dc9-8f4d-92deac1057dc.jpg)
 ![PGM project 2_page-0006](https://user-images.githubusercontent.com/59906496/184262712-ad557ebd-3f15-4714-aadc-4c34678919f9.jpg)
-![PGM project 2_page-0007](https://user-images.githubusercontent.com/59906496/184262722-957cf3da-b26b-4c18-9262-f6bef87dd3f9.jpg)
 ![PGM project 2_page-0008](https://user-images.githubusercontent.com/59906496/184262724-fec2f069-1039-42d7-ae74-78177b524054.jpg)
 ![PGM project 2_page-0009](https://user-images.githubusercontent.com/59906496/184262728-82809419-2e3e-4a35-a60b-31dc48a9c307.jpg)
 ![PGM project 2_page-0010](https://user-images.githubusercontent.com/59906496/184262733-a75923f5-1456-408f-a5e6-a4fc4341105c.jpg)
