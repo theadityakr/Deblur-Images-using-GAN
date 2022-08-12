@@ -1,6 +1,10 @@
-# Deblur-Images-using-GAN!
-
-[GOPR0881_11_01_000273](https://user-images.githubusercontent.com/59906496/162582242-1d6e33b2-95bc-4ee0-a6c2-afcd65bcd32c.png)
-![GOPR0384_11_00_000001](https://user-images.githubusercontent.com/59906496/162582248-cf6cf3e6-bf36-403e-ab9b-69f951e96f13.png)
-![GOPR0410_11_00_000201](https://user-images.githubusercontent.com/59906496/162582251-86b008b7-1095-4eeb-8fbf-3c4b31b11aac.png)
-[PGM project(2).pdf](https://github.com/theadityakr/Deblur-Images-using-GAN/files/9312871/PGM.project.2.pdf)
+![PGM project 2_page-0001](https://user-images.githubusercontent.com/59906496/184262590-ff79ecd9-cbba-46e0-b5a8-e8ebb78004d9.jpg)
+![PGM project 2_page-0002](https://user-images.githubusercontent.com/59906496/184262600-f257595b-4cee-4fd1-adee-bd9092e7b0c4.jpg)
+![PGM project 2_page-0003](https://user-images.githubusercontent.com/59906496/184262604-c81708df-da5a-489d-b49f-66d3827d8cf2.jpg)
+![PGM project 2_page-0004](https://user-images.githubusercontent.com/59906496/184262611-e33da808-f781-4e7f-b55a-d3db85ad28ab.jpg)
+![PGM project 2_page-0005](https://user-images.githubusercontent.com/59906496/184262624-e119064f-6c8e-4dc9-8f4d-92deac1057dc.jpg)
+![PGM project 2_page-0006](https://user-images.githubusercontent.com/59906496/184262712-ad557ebd-3f15-4714-aadc-4c34678919f9.jpg)
+![PGM project 2_page-0007](https://user-images.githubusercontent.com/59906496/184262722-957cf3da-b26b-4c18-9262-f6bef87dd3f9.jpg)
+![PGM project 2_page-0008](https://user-images.githubusercontent.com/59906496/184262724-fec2f069-1039-42d7-ae74-78177b524054.jpg)
+![PGM project 2_page-0009](https://user-images.githubusercontent.com/59906496/184262728-82809419-2e3e-4a35-a60b-31dc48a9c307.jpg)
+![PGM project 2_page-0010](https://user-images.githubusercontent.com/59906496/184262733-a75923f5-1456-408f-a5e6-a4fc4341105c.jpg)
